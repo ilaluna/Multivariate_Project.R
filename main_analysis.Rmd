@@ -88,5 +88,5 @@ ggplot(stroop_data_long, aes(x = congruency, y = reactiontimes)) +
   ylab("Reaction Times")  + xlab("Condition") + theme_bw(base_size = 14) + 
   theme(panel.grid.major.x = element_blank())
 ```
-
+Here is the graph 
 
